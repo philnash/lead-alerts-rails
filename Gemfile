@@ -14,6 +14,7 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'twilio-ruby'
+gem 'textris'
 
 group :test do
   gem 'byebug'
